@@ -40,13 +40,26 @@
     text-align: center;
 }
 div > #para1 {
-    background-color: brown;
+    background-color: 96C9F4;
+    width: 600;
+    height: 220;
+    
+}
+div > #para2 {
+    background-color: 96C9F4;
+    width: 600;
+    height: 220;
 }
 .image1 {
     display: flex;
     padding-left: 200;
 }
+.images {
+    float: left;
+    
+}
 .my-skills {
     text-align: center;
 }
+
 
